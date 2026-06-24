@@ -62,21 +62,11 @@ https://robust-smart-assist-core.base44.app
 
 
 
-\### Home Page
+![Home](screenshots/home.png)
 
-(Add screenshot)
+![Chatbot](screenshots/chatbot.png)
 
-
-
-\### Chat Interface
-
-(Add screenshot)
-
-
-
-\### Dashboard
-
-(Add screenshot)
+![Dashboard](screenshots/dashboard.png)
 
 
 
