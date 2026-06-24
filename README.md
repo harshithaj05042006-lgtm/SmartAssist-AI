@@ -54,7 +54,7 @@ The chatbot can answer questions from multiple domains including:
 
 
 
-PASTE\_YOUR\_BASE44\_LINK\_HERE
+https://robust-smart-assist-core.base44.app
 
 
 
